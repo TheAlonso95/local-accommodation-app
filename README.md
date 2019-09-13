@@ -5,6 +5,7 @@ This is a project that includes a front-end Aurelia App, back-end(nest.js(node))
 ## Front-end: 
 
 ![Image](https://www.valuecoders.com/blog/wp-content/uploads/2016/11/aurelia-js-logo.png)
+
 [Aurelia Web Site](https://aurelia.io/)
 
 Why Aurelia?
@@ -20,7 +21,8 @@ Why Aurelia?
 ---
 ## Back-end: 
 ![Image](https://christiantola.me/assets/img/nest_logo.d11da205.svg)
-[Nestjs](https://nestjs.com/)
+
+[Nestjs Web Site](https://nestjs.com/)
 
 Why Nest ?
 
