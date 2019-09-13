@@ -1,6 +1,10 @@
 # Local Accommodation App Manager
-This is a project that includes a front-end Aurelia App, back-end(nest.js(node)) app, flutter mobile app
 
+
+## Description: 
+```
+This project is an attempt to create a Free Platform for anyone how has one or many Local Accommodation so they can manage it easily! :)
+```
 ---
 ## Front-end: 
 
@@ -8,7 +12,9 @@ This is a project that includes a front-end Aurelia App, back-end(nest.js(node))
 
 [Aurelia Web Site](https://aurelia.io/)
 
-Why Aurelia?
+#### Why Aurelia?
+
+```
 * Easy to Learn
 * High Performance
 * Extensive Ecosystem
@@ -17,17 +23,29 @@ Why Aurelia?
 * Unmatched Extensibility
 * Effortless Coding with Conventions
 * Routing, Composition & Progressive Enhancement
+```
 
+#### Install & Config: 
+
+````
+Front-end Config
+````
 ---
 ## Back-end: 
 ![Image](https://christiantola.me/assets/img/nest_logo.d11da205.svg)
 
 [Nestjs Web Site](https://nestjs.com/)
 
-Why Nest ?
-
+#### Why Nest ?
+```
 Nest is a progressive Node.js framework for building efficient, reliable and scalable server-side applications. 
 
 * Extensible
 * Versatile
 * Progressive
+```
+
+#### Install & Config: 
+````
+Back-end Config
+````
